@@ -1,0 +1,5 @@
+Datasets can be found at:
+https://github.com/yingjia-liu/Msft-Grab-FRS/blob/master/Safety/Safety_Problem_Statement.md
+NOTE: I suggest you download all 11 parts seperately instead of downloading the aggregate one.
+Instructions for combining them can be found in my ipynb file.
+Else, if you are running on a potato machine like me, your machine will crash/really struggle.
