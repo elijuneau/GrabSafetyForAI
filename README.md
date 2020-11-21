@@ -7,7 +7,9 @@ Link to the master tree:
 https://github.com/yingjia-liu/Msft-Grab-FRS/tree/master/Safety
 
 Also for any suffering fellow NYP students who made it here, congrats, you're about to suffer. This was my FYP.
+
 Feature Engineering Ideas
+
 The acceleration and gyroscope features are representative of the driver's behaviour (Z - vehicle bouncing, X - braking/ acceleration, Y - turning speed) with correction process, lateral, longitudinal and vertical movements of vehicle could be derived with these features.
 
 Here lists some ideas for feature engineering processes:
