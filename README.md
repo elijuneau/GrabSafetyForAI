@@ -3,6 +3,10 @@ Grab Safety for AI but using Python version 2.7 (I think) + English translation 
 So uhh, I got the main bulk of the code from here, mismashed with various code bits I added in myself (mostly version updates.) Shoutout to that great programmer-person.
 https://github.com/FransdanaNadeak/GRAB-Data-Science/blob/master/GRAB%20-%20DATA%20SCIENCE%20(Safety).ipynb
 
+Link to the master tree:
+https://github.com/yingjia-liu/Msft-Grab-FRS/tree/master/Safety
+
+Also for any suffering fellow NYP students who made it here, congrats, you're about to suffer. This was my FYP.
 Feature Engineering Ideas
 The acceleration and gyroscope features are representative of the driver's behaviour (Z - vehicle bouncing, X - braking/ acceleration, Y - turning speed) with correction process, lateral, longitudinal and vertical movements of vehicle could be derived with these features.
 
