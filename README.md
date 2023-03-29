@@ -3,10 +3,8 @@ Grab Safety for AI but using Python version 2.7 (I think). Added a few new modul
 
 https://github.com/FransdanaNadeak/GRAB-Data-Science/blob/master/GRAB%20-%20DATA%20SCIENCE%20(Safety).ipynb
 
-Link to the master tree:
-https://github.com/yingjia-liu/Msft-Grab-FRS/tree/master/Safety
-
-Also for any suffering fellow NYP students who made it here, congrats, you're about to suffer. This was my FYP.
+Link to the challenge:
+https://www.grab.com/sg/aiforsea/aiforsea-safety/
 
 Feature Engineering Ideas
 
